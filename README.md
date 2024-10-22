@@ -1,5 +1,8 @@
 # random-poker-c-
 the easy poker game
+HackMD:
+https://hackmd.io/@H3mL9qggRsmVCT1GoyuNjg/S1pdIpNekl
+
  
     {
         public Form1()
